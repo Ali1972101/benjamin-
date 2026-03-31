@@ -78,7 +78,7 @@ body {
 
   .logo {
     height: 25px;
-    display: block;
+    display: none;
   }
 
   .profile-section {
