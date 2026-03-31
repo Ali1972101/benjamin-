@@ -84,9 +84,8 @@ body {
   .profile-section {
     display: flex;
     flex-direction: column;
-   
   }
-  
+
   .profile-section img {
     width: 100%;
     height: auto;
@@ -97,11 +96,11 @@ body {
   }
 
   .footer {
-  display: flex;
-  gap: 20px;
-  /* margin-left: 15%; */
-  justify-content: center;
-}
+    display: flex;
+    gap: 20px;
+    /* margin-left: 15%; */
+    justify-content: center;
+  }
 }
 
 .header-content1 {
